@@ -1,1 +1,10 @@
-Black box:
+Black box: invasão sem nenhuma informação (mais utilizado)
+Gray box: invasão com informações parciais
+White box: invasão com muitas informações (um possível trabalhador ou extrabalhador da empresa)
+
+1º Reconhecimento = pesquisa sobre o sistema, domínio, informações gerais.
+2º Varredura = utilização das informações obtidas no reconhecimento, para extrair ainda mais informações como IP, quantidade de máquinas conectadas a rede, sistema operacional...
+3º Ganhando o Acesso = Juntar todas as informações e decidir algum método ou ferramenta para conseguir o acesso.
+4º Mantendo o Acesso = colocar algum programa para facilitar o acesso em outras vezes.
+5º Cobrindo Rastros = esconder endereço de IP, apagar os acessos, esconder arquivos etc...
+
